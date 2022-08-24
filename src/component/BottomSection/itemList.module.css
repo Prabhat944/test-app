@@ -1,0 +1,21 @@
+.container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+.warrent{
+    width: 200px;
+    font-size:18px;
+    font-weight: 500;
+    margin:5px 0px 5px 0px;
+}
+.warrentH{
+  width: 200px;
+}
+.topContainer{
+    margin-top: 20px;
+    width: 100%;
+    border-bottom: 3px solid rgb(236, 179, 56);
+}

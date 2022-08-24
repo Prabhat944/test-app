@@ -1,0 +1,10 @@
+.topbar{
+    display: flex;
+    height:80px;
+    font-size: 22px;
+    border-bottom: 3px solid rgb(236, 179, 56);
+    
+}
+.topbar h1{
+    font-weight: 300;
+}
